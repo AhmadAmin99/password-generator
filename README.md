@@ -1,3 +1,2 @@
 # password-generator
-\n
-https://ahmadamin99.github.io/password-generator/
+ https://ahmadamin99.github.io/password-generator/
